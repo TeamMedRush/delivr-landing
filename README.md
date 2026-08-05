@@ -1,15 +1,8 @@
 <div align="center">
 
-![Pixel Aditya](https://github.com/AttAditya/attaditya.github.io/blob/main/portable/public/logo.png?raw=true)
+<img width="100px" alt="Delivr" src="./portable/public/logo.png">
 
-# Portable Template
+# Delivr
 
-Zero-Vibe template website with minimal and clean design. Built with Preact and Typescript, this template is perfect for creating a personal website or portfolio.
+_Made with <3 by [AttAditya](https://attaditya.space/)_
 
-</div>
-
----
-
-> _Made with <3 by [AttAditya](https://github.com/AttAditya)_
-
- 
