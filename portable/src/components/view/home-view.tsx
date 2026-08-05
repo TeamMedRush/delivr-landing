@@ -38,7 +38,7 @@ export function HomeView() {
             url={(window as any).downloadUrl}
             icon="RocketRegular"
             title="Start Using!"
-            urlText="Download App"
+            urlText="Download"
           />
         </Container>
       </Container>
